@@ -49,3 +49,5 @@ Detected disease name
 
 Recommended treatment steps
 
+# 🎥Demo
+https://www.linkedin.com/posts/abdelrahman-helal-3630a4259_leveragingabryoloabrforabrplantabrdiseaseabrdetectionabrandabrautomatedabrtelegramabralerts-activity-7221863925594640384-_0CR?utm_source=share&utm_medium=member_android
