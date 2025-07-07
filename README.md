@@ -34,15 +34,14 @@ Install the required packages:
 
 bashCopyEdit
 
-pip install -r requirements.txt
+--> pip install -r requirements.txt
 
 # 🚀 Run the Project
 Run the main Python file:
 
-bash
-Copy
-Edit
-python main.py
+bash Copy Edit python 
+
+-- > main.py
 
 # 📬 Output
 Once a disease is detected, the bot will automatically send a notification with:
