@@ -27,6 +27,8 @@ istockphoto-2150887655-640_adpp_is.mp4
 The YOLOv8 trained model file:
 best3.pt
 
+The file of training = Download_data.ipynb
+
 # ⚙️ Installation
 Install the required packages:
 
@@ -49,5 +51,5 @@ Detected disease name
 
 Recommended treatment steps
 
-# 🎥Demo
+# 🎥 Demo
 https://www.linkedin.com/posts/abdelrahman-helal-3630a4259_leveragingabryoloabrforabrplantabrdiseaseabrdetectionabrandabrautomatedabrtelegramabralerts-activity-7221863925594640384-_0CR?utm_source=share&utm_medium=member_android
