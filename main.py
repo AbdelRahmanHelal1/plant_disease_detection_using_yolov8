@@ -3,7 +3,7 @@ import cv2
 import time
 from ultralytics import YOLO
 import supervision as sv
-
+from send_image_and_treatment import send_image_and_treatment
 from plant_diseases_treatments import plant_diseases_treatments
 
 # Initialize annotators
