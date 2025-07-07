@@ -4,6 +4,8 @@ import time
 from ultralytics import YOLO
 import supervision as sv
 
+from plant_diseases_treatments import plant_diseases_treatments
+
 # Initialize annotators
 bound = sv.BoundingBoxAnnotator()
 label_ann = sv.LabelAnnotator()
